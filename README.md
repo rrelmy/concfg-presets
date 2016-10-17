@@ -1,2 +1,2 @@
 # concfg-presets
-Presets for concfg
+Presets for [concfg](https://github.com/lukesampson/concfg)
